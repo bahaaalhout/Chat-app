@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54930848616",
+    "project_id": "chat-app-161ab",
+    "storage_bucket": "chat-app-161ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54930848616:android:798a91fd5872870b6074dd",
+        "android_client_info": {
+          "package_name": "com.bahaa.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54930848616-aka6lft6oj16lraoh893tlv79f0kdt64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKO1NIVfVVt8-YBpwCg85uf6vnb561zrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54930848616-aka6lft6oj16lraoh893tlv79f0kdt64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
